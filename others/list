@@ -1,0 +1,7 @@
+"""
+- Add anti mass-ban @cogs.protection
+- Add anti mass-kick @cogs.protection
+- Add whitelisting system @cogs.protection
+- Add more clone commands & Clone all @cogs.clone
+- Add mass upload emoji with zip file @cogs.misc
+"""
